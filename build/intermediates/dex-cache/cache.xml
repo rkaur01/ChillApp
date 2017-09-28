@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Todd\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-jvm\2.3.1\4d53b7d6983247af02b8fe7e4228fff555a5e828\firebase-client-jvm-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4d53b7d6983247af02b8fe7e4228fff555a5e828">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\firebase-client-jvm-2.3.1_f9d7f3cdadc1b8b6bdd8f89ee5757829a1501a4c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\.gradle\caches\modules-2\files-2.1\com.firebase\firebase-client-android\2.3.1\be29b24233711c419ce935aa0a1b12ebc49d1c9a\firebase-client-android-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="be29b24233711c419ce935aa0a1b12ebc49d1c9a">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\firebase-client-android-2.3.1_5cb61ce43ec6e0251314135b26fbfac91f8f484e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\libs\internal_impl-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e57fba0a2d57d3501d8f4ff44c23092978804845">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\internal_impl-24.0.0-alpha1_7d466f68b6769fbbf1e339367bb707377775e25d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a6af5beedc2e8c946abc3771525e2fed77439309">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.0.0-alpha1_4fcc70f2c59676ed2290862f3d65edf7d858273e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ed88e1f0c8fbf66e1da918545f0a6790f893bceb">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.0.0-alpha1_0205a7ada7e2b8dd83b7d3331b3cd2de23f756a1.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-annotations\2.2.2\285cb9c666f0f0f3dd8a1be04e1f457eb7b15113\jackson-annotations-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="285cb9c666f0f0f3dd8a1be04e1f457eb7b15113">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\jackson-annotations-2.2.2_8ef9daf667cb6227b82b6e66662d52527cc7f07c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-databind\2.2.2\3c8f6018eaa72d43b261181e801e6f8676c16ef6\jackson-databind-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3c8f6018eaa72d43b261181e801e6f8676c16ef6">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\jackson-databind-2.2.2_456fec6dc5c190385dfcb0b56de5f31c3ed8821e.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\.gradle\caches\modules-2\files-2.1\com.firebase\tubesock\0.0.11\d37cb67277928cf59344b4196af8d9cee1f1a27c\tubesock-0.0.11.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d37cb67277928cf59344b4196af8d9cee1f1a27c">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\tubesock-0.0.11_bfc45db7814289e95174af2e02175c3074128808.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aaaea3a89040f8176f810c85e288fc74d5d1f12">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.0.0-alpha1_ae3cdf7284d13e0cf9bfb54630ceb7dc657652c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\AppData\Local\Android\sdk1\extras\android\m2repository\com\android\support\support-annotations\24.0.0-alpha1\support-annotations-24.0.0-alpha1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b8062546971a3d196343232a19a3c0016272ba47">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\support-annotations-24.0.0-alpha1_b4463e3ff7383265a8e674bc031c266553df375d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9684c95278dc45a142d7de3db9e7e39aa520e1e0">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.0.0-alpha1_43a43f4f2ea484803f3c3840b9921a114abf1f72.jar" />
+    </item>
+    <item
+        jar="C:\Users\Todd\.gradle\caches\modules-2\files-2.1\com.fasterxml.jackson.core\jackson-core\2.2.2\d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b\jackson-core-2.2.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b">
+        <dex dex="C:\Users\Todd\AndroidStudioProjects\ChillApp\app\build\intermediates\pre-dexed\debug\jackson-core-2.2.2_ba4da5939a9873575f9f253184d5062b6a01b54a.jar" />
+    </item>
+
+</items>

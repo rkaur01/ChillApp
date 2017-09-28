@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="23"
+    density="xxhdpi"
+    format="6"
+    timestamp="807155026930180" >
+
+    <task
+        name="javac"
+        duration="239" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="44" />
+    <task
+        name="verifier"
+        duration="16" />
+
+    <artifact
+        location="/Users/raspritkaur/AndroidStudioProjects/ChillApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2_cadf912a07565071dea8c1e938c3b3a1d24e8cd2/classes.dex"
+        type="DEX" />
+
+    <build timestamp="806938383488567" >
+        <artifact
+            location="/Users/raspritkaur/AndroidStudioProjects/ChillApp/app/build/outputs/apk/app-debug.apk"
+            type="MAIN" />
+    </build>
+    <build timestamp="807155026930180" >
+        <artifact
+            location="/Users/raspritkaur/AndroidStudioProjects/ChillApp/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2_cadf912a07565071dea8c1e938c3b3a1d24e8cd2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

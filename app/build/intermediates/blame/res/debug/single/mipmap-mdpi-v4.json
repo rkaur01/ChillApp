@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Todd\\AndroidStudioProjects\\ChillApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\settings.png",
+        "source": "C:\\Users\\Todd\\AndroidStudioProjects\\ChillApp\\app\\src\\main\\res\\mipmap-mdpi\\settings.png"
+    },
+    {
+        "merged": "C:\\Users\\Todd\\AndroidStudioProjects\\ChillApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\Todd\\AndroidStudioProjects\\ChillApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\raspritkaur\\AndroidStudioProjects\\ChillApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\raspritkaur\\AndroidStudioProjects\\ChillApp\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

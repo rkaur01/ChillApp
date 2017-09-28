@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- RASPRIT -->
+    <color name="emerald">#2ecc71</color>
+    <color name="alizarin">#e74c3c</color>
+    <color name="colorPrimary">#1c1919</color>
+    <color name="colorPrimaryDark">#131111</color>
+    <color name="colorAccent">#221c1c</color>
+</resources>
